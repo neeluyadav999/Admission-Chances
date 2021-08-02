@@ -1,1 +1,10 @@
-# Admission-Chances
+# Admission-Chances-Prediction
+A Admission Chance Predictor👩‍💻 made using multiple linear Regression 📊 using R. 
+Prediction 📈done based on the scores such as✍ GRE, TOEFL , CGPA, LOR, SOP, University ranking🏫🎓.
+Database📁🗄🗃 is taken from kaggle.
+Database consists of data from 7 CGPA and above.
+In this project shinys package is used in R to make UI💻 for the project.
+In this project 👩‍🏫 user can enter data and predict his her chances of getting admitted🎓.As well as user can visualize data by changing the x and y axis respectively and download the graph as well.
+Also user👩🏻 can download the database by clicking download database.
+
+
