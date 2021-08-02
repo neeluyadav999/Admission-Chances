@@ -9,3 +9,6 @@ Also user👩🏻 can download the database by clicking download database.
 
 
 I even hosted that on shiny.io and the link is 🔗 https://neelu1999.shinyapps.io/MyAdmitChances/
+
+Screenshot of the project :
+
