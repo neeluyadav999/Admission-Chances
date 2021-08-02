@@ -12,3 +12,5 @@ I even hosted that on shiny.io and the link is 🔗 https://neelu1999.shinyapps.
 
 Screenshot of the project :
 
+![image](https://user-images.githubusercontent.com/78953088/127922307-69476669-6ddf-4516-a23c-ed2e1f8e9137.png)
+
